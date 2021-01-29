@@ -27,6 +27,16 @@ Mantra: Helping create better, higher quality software faster.
 Distributing exclusive high quality champagne (HATT et SÖNER) and premium vodka (Virtuous Vodka) in the greater Copenhagen area.
 Fast delivery and flexible payment options.
 
+### Senior Alfresco Developer (2011-2013)
+
+Worked with Alfresco - an open source Java based Enterprise Content Management product.
+
+In this position, Senior Alfresco Developer, I was part of virtual team of ten members distributed over the three countries the company operates in: Denmark, Norway and Sweden. The company (Redpill Linpro) bases its activities around open source technologies and counts over 200 heads.
+
+The danish department - where I belonged to - consisted of three certified Alfresco Engineers.
+
+We worked individually on-site at customers and got to see each other at the weekly team meetings (Google Hangout) or at the quarterly team gatherings.
+
 ## Contact details
 
 - <a href="tel:+4553800816">+45 53800816</a>
