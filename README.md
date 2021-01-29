@@ -66,7 +66,7 @@ Design of a system-to-system interface (XML schemas and WSDL files) that describ
 
 ### Developer (2007)
 
-As a member of the internal integration team I was doing webservice orchestrations to implement business rules in a big SOA based project setup.
+As a member of an internal integration team I was doing webservice orchestrations to implement business rules in a big SOA based project setup.
 
 ### Developer (2007)
 
@@ -76,10 +76,34 @@ Technology stack: Java, JavaBeans, Spring, JPA (Java Persistence API), Annotatio
 
 ### Developer (2006-2007)
 
-Development of core components of a software solution that 120+ banks in the future will use with sales of pension plans in mind.
-As a member of a project team of 18 men, it was my job to analyze, design and implement a specific part of the core component.
+Development of core components of a software solution that 120+ banks were using with sales of pension plans in mind.
+As a member of a project team with 18 heads, it was my job to analyze, design and implement a specific part of the core component.
 
 Technology stack: Java 5, JPA, Hibernate, XFire, Spring, Rational Application Developer, ClearCase, IBM WebSphere v6.1, Microsoft SQL Server 2005, SoapUI.
+
+### Developer (2006)
+
+Localization of Tele2 front- and backend to French conditions. That is, adaptation and development of the existing code base against external interfaces such as the French version of RKI (customer rating). We worked in three groups of 5 developers each.
+
+After a short-term high intensity training in Perl-programming, we modeled and implemented Nomad workflows in both Perl and Java.
+Ready developed workflows were installed continuously on the production server.
+As a member of the GUI group, my primary task was to implement the user interface in XHTML using Mason (a perl-based framework)
+
+Technology stack: NeoConsult's 'Nomad Workflow Engine', Java POJOs, Perl, Mason, SOAP, XHTML, Ajax, JavaScript, CSS.
+
+### CTO, Partner (2002-2005)
+
+Development of concept, design and programming of an eCommerce platform that formed the base for the company that I founded and ran together with my business partner. After commissioning, I was constantly engaged in developing and improving the system.
+
+Business idea: Convey purchase contracts to suppliers in Germany on behalf of customers. A customer turned to our company for the purchase and transport of products and authorized us to buy one or more products on the customer's behalf, as well as to have these transported to the customer's delivery address.
+
+Technology stack: Java, EJB, XDoclet, JSP, Struts, SQL, XML, JBoss, Tomcat, DIPS, Postgres
+
+### Developer (2001)
+
+Realisation of all planned new features in the company's product - Caput Community System.
+
+---
 
 ## Contact details
 
