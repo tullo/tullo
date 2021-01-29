@@ -42,6 +42,17 @@ We worked individually on-site at customers and got to see each other at the wee
 Freelance agile software development consulting focusing on the Java EE 5 platform and Java EE 5 servers including more lightweight frameworks
 such as Spring and Hibernate. Helping create better, higher quality software faster.
 
+### Software Engineer (2010-2011)
+
+Customization of a Java-based POS system (Java POS) to Danish conditions.
+
+I was the one and only Java developer in a .NET development shop and here I were responsible for the integration of the POS systems with the company's .NET based StoreManager application.
+The application collected and monitored transactions delivered from the POS systems in the stores via web services and messaging system.
+
+Development of a centrally controlled marketing system for publishment of current offers to the POS systems displays via push functionality.
+
+Integration of a wireless self-scanning solution and peripherals addressable via the Java POS API.
+
 ## Contact details
 
 - <a href="tel:+4553800816">+45 53800816</a>
