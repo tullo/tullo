@@ -1,6 +1,6 @@
 Hi! My name is Andreas. I am a software engineer living in Copenhagen (Denmark). 
 
-![CodeQL](https://github-readme-stats.vercel.app/api?username=tullo)
+[![CodeQL](https://github-readme-stats.vercel.app/api?username=tullo&custom_title=tullo&theme=highcontrast&show_icons=true&hide=stars)](https://github.com/tullo/tullo)
 
 - 🔭 I’m currently working on Go (golang) related projects.
 - 🌱 I’m currently learning cloud (GCP), devops (ArgoCD), security (KSOPS).
