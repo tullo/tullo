@@ -22,6 +22,11 @@ With my systematic approach to tasks I can get things done and working properly.
 
 Mantra: Helping create better, higher quality software faster.
 
+### Business Owner (2015-2016)
+
+Distributing exclusive high quality champagne (HATT et SÖNER) and premium vodka (Virtuous Vodka) in the greater Copenhagen area.
+Fast delivery and flexible payment options.
+
 ## Contact details
 
 - <a href="tel:+4553800816">+45 53800816</a>
