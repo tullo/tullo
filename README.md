@@ -37,6 +37,11 @@ The danish department - where I belonged to - consisted of three certified Alfre
 
 We worked individually on-site at customers and got to see each other at the weekly team meetings (Google Hangout) or at the quarterly team gatherings.
 
+### Freelance IT Consultant (2006-2013)
+
+Freelance agile software development consulting focusing on the Java EE 5 platform and Java EE 5 servers including more lightweight frameworks
+such as Spring and Hibernate. Helping create better, higher quality software faster.
+
 ## Contact details
 
 - <a href="tel:+4553800816">+45 53800816</a>
