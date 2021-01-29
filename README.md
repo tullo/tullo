@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi! My name is Andreas. I am a software engineer living in Copenhagen (Denmark). 
 
-<!--
-**tullo/tullo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![CodeQL](https://github-readme-stats.vercel.app/api?username=tullo)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Go (golang) related projects.
+- 🌱 I’m currently learning cloud (GCP), devops (ArgoCD), security (KSOPS).
+- 👯 I’m looking to collaborate on projects looking for a golang programmer.
+- 🤔 I’m looking for help with landing a job involving all or some of the previous points.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>🔰 Curriculum & 📫 contact information</summary>
+
+## Contact details
+
+- tullo@pm.me
+- +45 53800816
+- [LinkedIn](https://www.linkedin.com/in/amstutzit/)
+- Copenhagen, Denmark
+
+</details>
