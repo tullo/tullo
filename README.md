@@ -46,12 +46,40 @@ such as Spring and Hibernate. Helping create better, higher quality software fas
 
 Customization of a Java-based POS system (Java POS) to Danish conditions.
 
-I was the one and only Java developer in a .NET development shop and here I were responsible for the integration of the POS systems with the company's .NET based StoreManager application.
+I was the one and only Java developer in a .NET development shop and here I was responsible for the integration of 
+the POS systems with the company's .NET based StoreManager application.
 The application collected and monitored transactions delivered from the POS systems in the stores via web services and messaging system.
 
 Development of a centrally controlled marketing system for publishment of current offers to the POS systems displays via push functionality.
 
 Integration of a wireless self-scanning solution and peripherals addressable via the Java POS API.
+
+### IT-Consultant, Project Department (2008-2010)
+
+Porting of existing system integrations to Apache Camel (an open source integration framework), as well as development of new integrations.
+
+Development of integrations on basis of JCAPS (Sun Java Composite Application Platform Suite). The integrations supported 300+ different applications and systems that were in operation in hospitals and clinics classified under 'Capital Region' of Denmark.
+
+### System Developer (2008)
+
+Design of a system-to-system interface (XML schemas and WSDL files) that described the web service operations which finance, portal and other stakeholders may use to interact with the electronic registration (e-TL) engine.
+
+### Developer (2007)
+
+As a member of the internal integration team I was doing webservice orchestrations to implement business rules in a big SOA based project setup.
+
+### Developer (2007)
+
+Development of new features for a new web based management system.
+
+Technology stack: Java, JavaBeans, Spring, JPA (Java Persistence API), Annotations, Hibernate, JSF, MyFaces, JUnit, JMock, Appfuse, Tomcat, Jetty, Eclipse, JIRA, Confluence (Wicki), OOA/D, UML.
+
+### Developer (2006-2007)
+
+Development of core components of a software solution that 120+ banks in the future will use with sales of pension plans in mind.
+As a member of a project team of 18 men, it was my job to analyze, design and implement a specific part of the core component.
+
+Technology stack: Java 5, JPA, Hibernate, XFire, Spring, Rational Application Developer, ClearCase, IBM WebSphere v6.1, Microsoft SQL Server 2005, SoapUI.
 
 ## Contact details
 
