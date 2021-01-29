@@ -11,6 +11,17 @@ Hi! My name is Andreas. I am a software engineer living in Copenhagen (Denmark).
 <details>
 <summary>🔰 Curriculum & 📫 contact information</summary>
 
+### Java and Alfresco Contractor (2014–2019)
+
+Freelance software development and consulting with focus on current technology stacks.
+
+The quality of my deliveries is a top priority and I strive to do test driven development whenever possible.
+
+I worked with system integrations, web services and web applications in various guises.
+With my systematic approach to tasks I can get things done and working properly.
+
+Mantra: Helping create better, higher quality software faster.
+
 ## Contact details
 
 - <a href="tel:+4553800816">+45 53800816</a>
