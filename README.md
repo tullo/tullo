@@ -3,10 +3,24 @@ Hi! My name is Andreas. I am a software engineer living in Copenhagen (Denmark).
 [![CodeQL](https://github-readme-stats.tullo.vercel.app/api?username=tullo&custom_title=tullo&theme=gotham&show_icons=true&hide=stars)](https://github.com/tullo/)
 [![Top Langs](https://github-readme-stats.tullo.vercel.app/api/top-langs/?username=tullo&layout=compact&theme=gotham&langs_count=6)](https://github.com/tullo/)
 
-- 🔭 I’m currently working on Go (golang) related projects.
-- 🌱 I’m currently learning cloud (GCP), devops (ArgoCD), security (KSOPS).
-- 👯 I’m looking to collaborate on projects in need for a golang programmer.
-- 🤔 I’m looking for help with landing a job involving all or some of the previous points.
+```go
+me := tullo{
+	pronouns: []string{"He", "Him"},
+	code:     []string{"Go", "Bash", "Java", "C++"},
+	tec: technologies{
+		backend: map[string]interface{}{
+			"go": []string{"chi", "pgx", "graphql", "fiber", "gorm"},
+			"db": []string{"cockroachdb", "mongo", "postgresql", "redis", "sqlite"},
+		},
+		cloud:  []string{"gcp", "cloud-run", "okteto", "vercel"},
+		devOps: []string{"argocd", "docker", "git", "gh-actions", "k8s", "sealed-secrets"},
+		linux:  []string{"alpine", "debian", "ubuntu"},
+		misc:   []string{"rust", "nextjs", "html5", "java", "rabbitmq", "springboot", "typescript"},
+	},
+	doing:  "Learning cloud (GCP), devops (ArgoCD), security (KSOPS,sealed-secrets)",
+	wantTo: "Work with Go as the main tool in the toolbox",
+}
+```
 
 <details>
 <summary>🔰 Curriculum & 📫 contact information</summary>
@@ -114,17 +128,3 @@ Realisation of all planned new features in the company's product - Caput Communi
 - Copenhagen, Denmark
 
 </details>
-
-<img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
-<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-<img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
-<img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-<img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
