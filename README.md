@@ -12,18 +12,27 @@ me := tullo{
 			"go": []string{"chi", "pgx", "graphql", "fiber", "gorm"},
 			"db": []string{"cockroachdb", "mongo", "postgresql", "redis", "sqlite"},
 		},
-		cloud:  []string{"gcp", "cloud-run", "okteto", "vercel"},
-		devOps: []string{"argocd", "docker", "git", "gh-actions", "k8s", "sealed-secrets"},
+		cloud:  []string{"gcp", "cloud-run", "k8s", "k3s", "knative", "okteto", "vercel"},
+		devops: []string{"argocd", "docker", "drone", "git", "gh-actions", "k8s", "sealed-secrets"},
 		linux:  []string{"alpine", "debian", "ubuntu"},
-		misc:   []string{"rust", "nextjs", "html5", "java", "rabbitmq", "springboot", "typescript"},
+		misc:   []string{
+			"typescript", "nextjs", "html5", "java", "springboot", "rabbitmq", 
+			"rust"},
 	},
-	doing:  "Learning cloud (GCP), devops (ArgoCD), security (KSOPS,sealed-secrets)",
-	wantTo: "Work with Go as the main tool in the toolbox",
+	doing:  "cloud (GCP), devops (ArgoCD), security (KSOPS,sealed-secrets)",
+	wantTo: "Work with Go and supporting tec on a daily/weekly basis",
 }
 ```
 
 <details>
 <summary>🔰 Curriculum & 📫 contact information</summary>
+
+### DevOps Engineer (2021)
+
+Responsibilities:
+- Automation (orchestrate systems provisioning, processes with Ansible)
+- Keep the lights on (day-to-day administration)
+- Support developers
 
 ### Java and Alfresco Contractor (2014–2019)
 
