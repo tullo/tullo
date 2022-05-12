@@ -20,7 +20,7 @@ me := tullo{
 			"rust"},
 	},
 	doing:  "cloud (GCP), devops (ArgoCD), security (KSOPS,sealed-secrets)",
-	wantTo: "Work with Go and supporting tec on a daily/weekly basis",
+	wantTo: "Work with Go and supporting tech on a daily/weekly basis",
 }
 ```
 
