@@ -100,7 +100,7 @@ Realisation of planned new features in the company's product - Caput Community S
 ## Contact details
 
 - <a href="tel:+4553800816">+45 53800816</a>
-- [![Mail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:tullo@pm.me)
+- [![Mail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:tullo@proton.me)
 - [![Twitter](https://img.shields.io/badge/amstutzIT%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/amstutzIT)
 - [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amstutzit/)
 - Copenhagen, Denmark
