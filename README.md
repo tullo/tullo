@@ -4,23 +4,21 @@ Hi! My name is Andreas. I am a software engineer living in Copenhagen (Denmark).
 [![Top Langs](https://github-readme-stats.tullo.vercel.app/api/top-langs/?username=tullo&layout=compact&theme=gotham&langs_count=6)](https://github.com/tullo/)
 
 ```go
-me := tullo{
-	pronouns: []string{"He", "Him"},
-	code:     []string{"Go", "Bash", "Java", "C++"},
-	tec: technologies{
-		backend: map[string]interface{}{
-			"go": []string{"chi", "pgx", "graphql", "fiber", "gorm"},
-			"db": []string{"cockroachdb", "mongo", "postgresql", "redis", "sqlite"},
-		},
-		cloud:  []string{"gcp", "cloud-run", "k8s", "k3s", "knative", "okteto", "vercel"},
-		devops: []string{"argocd", "docker", "drone", "git", "gh-actions", "k8s", "sealed-secrets"},
-		linux:  []string{"alpine", "debian", "ubuntu"},
-		misc:   []string{
-			"typescript", "nextjs", "html5", "java", "springboot", "rabbitmq", 
-			"rust"},
-	},
-	doing:  "cloud (GCP), devops (ArgoCD), security (KSOPS,sealed-secrets)",
-	wantTo: "Work with Go and supporting tech on a daily/weekly basis",
+var tullo = map[string]any{
+  "pronouns": []string{"He", "Him"},
+  "code":     []string{"C++", "Bash", "Go", "Java", "TypeScript"},
+  "doing":    []string{"Cloud=GCP", "DevOps=ArgoCD", "Security=KSOPS,sealed-secrets"},
+  "technologies": map[string]any{
+    "backend": map[string]any{
+      "db": []string{"cockroachdb", "mongo", "postgresql", "redis", "sqlite"},
+      "go": []string{"chi", "pgx", "graphql", "fiber", "gorm"},
+    },
+    "cloud":  []string{"cloud-run", "gcp", "k3s", "k8s", "knative", "okteto", "vercel"},
+    "devops": []string{"argocd", "docker", "drone", "git", "gh-actions", "k8s", "sealed-secrets", "terraform"},
+    "linux":  []string{"alpine", "debian", "pop-os", "ubuntu"},
+    "misc":   []string{"html5", "nextjs", "springboot", "rabbitmq", "rust"},
+  },
+  "wantTo": "Code with Go and supporting tech on a daily/weekly basis",
 }
 ```
 
