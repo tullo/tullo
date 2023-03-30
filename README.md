@@ -1,8 +1,5 @@
 Hi! My name is Andreas. I am a software engineer living in Copenhagen (Denmark). 
 
-[![CodeQL](https://github-readme-stats.tullo.vercel.app/api?username=tullo&custom_title=tullo&theme=gotham&show_icons=true&hide=stars)](https://github.com/tullo/)
-[![Top Langs](https://github-readme-stats.tullo.vercel.app/api/top-langs/?username=tullo&layout=compact&theme=gotham&langs_count=6)](https://github.com/tullo/)
-
 ```go
 var tullo = map[string]any{
   "pronouns": []string{"He", "Him"},
