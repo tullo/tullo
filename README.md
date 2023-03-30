@@ -22,7 +22,7 @@ var tullo = map[string]any{
 <details>
 <summary>🔰 Curriculum & 📫 contact information</summary>
 
-### Test Automation (2022)
+### Test Automation (2023)
 - Focus is on automating testing effort using Cuccumber/Gherking
 - Exploratory testing, analysis, bug reporting
 
