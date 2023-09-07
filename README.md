@@ -1,4 +1,4 @@
-Hi! My name is Andreas. I am a software engineer living in Copenhagen (Denmark). 
+I am a software engineer living in Copenhagen (Denmark). 
 
 ```go
 var tullo = map[string]any{
