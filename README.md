@@ -11,7 +11,8 @@ var tullo = map[string]any{
       "go": []string{"chi", "pgx", "graphql", "fiber", "gorm"},
     },
     "cloud":  []string{"cloud-run", "gcp", "k3s", "k8s", "knative", "okteto", "vercel"},
-    "devops": []string{"argocd", "docker", "drone", "git", "gh-actions", "k8s", "sealed-secrets", "terraform"},
+    "devops": []string{"argocd", "docker", "drone", "git", "gh-actions", "k8s", "sealed-secrets",
+      "terraform"},
     "linux":  []string{"alpine", "debian", "pop-os", "rhel8", "ubuntu"},
     "misc":   []string{"html5", "nextjs", "springboot", "rabbitmq", "rust"},
   }
