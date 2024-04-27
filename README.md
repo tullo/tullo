@@ -21,6 +21,25 @@ var tullo = map[string]any{
 <details>
 <summary>🔰 Curriculum & 📫 contact information</summary>
 
+### Operations Engineer (2023-2024)
+- Automated provisioning of our Jira, Confluence and Crowd clusters using Ansible playbooks.
+- Automated security patching of managed ec2 nodes using AWS Systems Manager.
+- Automated continuous upgrades and security patching of RHEL servers (Redhat Linux).
+- Set up Elastic APM for observability targeting our Jira and Confluence nodes.
+- Wrote Go (golang) programs that supported projects migrating their Zephyr testing data to Xray for Jira.
+- Helped customers recover from ransomware attacks and get their stack running again.
+- Onboarded SSO via ADFS for Jira via Statens IT.
+- Wrote Groovy scripts that:
+  - Repaired Jira issue links of +10'000 issues using ScriptRunner for Jira.
+  - Calculated project risk using input parameters on issue creation or modification.
+- Wrote Python scripts for:
+  - Resetting passwords of all Jira users using the Jira REST API.
+  - Modifying usernames of all Jira users using the Jira REST API.
+  - Updating the storage class of AWS S3 objects using AWS CloudShell.
+- Implemented automatic restart of Jira cluster nodes using cron scheduled bash script.
+- Renewed licenses for Jira and Jira apps. Upgraded apps/plugins.
+- Renewed licenses for Confluence and Confluence apps. Upgraded apps/plugins.
+ 
 ### Test Automation (2023)
 - Focus is on automating testing effort using Cuccumber/Gherking
 - Exploratory testing, analysis, bug reporting
@@ -95,7 +114,6 @@ Realisation of planned new features in the company's product - Caput Community S
 
 - <a href="tel:+4553800816">+45 53800816</a>
 - [![Mail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:tullo@proton.me)
-- [![Twitter](https://img.shields.io/badge/amstutzIT%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/amstutzIT)
 - [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amstutzit/)
 - Copenhagen, Denmark
 
