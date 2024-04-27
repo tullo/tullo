@@ -3,8 +3,8 @@ I am a software engineer living in Copenhagen (Denmark).
 ```go
 var tullo = map[string]any{
   "pronouns": []string{"He", "Him"},
-  "code":     []string{"C++", "Bash", "Go", "Java", "TypeScript"},
-  "doing":    []string{"Cloud=GCP", "DevOps=ArgoCD", "Security=KSOPS,sealed-secrets"},
+  "code":     []string{"C++", "Bash", "Go", "Groovy", "Java", "Python", "TypeScript"},
+  "doing":    []string{"Ansible", "Cloud=GCP", "DevOps=ArgoCD", "Security=KSOPS,sealed-secrets"},
   "technologies": map[string]any{
     "backend": map[string]any{
       "db": []string{"cockroachdb", "mongo", "postgresql", "redis", "sqlite"},
@@ -12,10 +12,9 @@ var tullo = map[string]any{
     },
     "cloud":  []string{"cloud-run", "gcp", "k3s", "k8s", "knative", "okteto", "vercel"},
     "devops": []string{"argocd", "docker", "drone", "git", "gh-actions", "k8s", "sealed-secrets", "terraform"},
-    "linux":  []string{"alpine", "debian", "pop-os", "ubuntu"},
+    "linux":  []string{"alpine", "debian", "pop-os", "rhel8", "ubuntu"},
     "misc":   []string{"html5", "nextjs", "springboot", "rabbitmq", "rust"},
-  },
-  "wantTo": "Code with Go and supporting tech on a daily/weekly basis",
+  }
 }
 ```
 
