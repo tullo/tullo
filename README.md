@@ -22,7 +22,7 @@ var tullo = map[string]any{
 <details>
 <summary>🔰 Curriculum & 📫 contact information</summary>
 
-### Operations Engineer (2023-2024)
+### Operations Engineer (2023-2025)
 - Automated provisioning of our Jira, Confluence and Crowd clusters using Ansible playbooks.
 - Automated security patching of managed ec2 nodes using AWS Systems Manager.
 - Automated continuous upgrades and security patching of RHEL servers (Redhat Linux).
